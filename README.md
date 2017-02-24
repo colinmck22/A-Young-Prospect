@@ -1,11 +1,3 @@
-
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
-
 <h1>A Young Prospect</h1>
 <h2>Chapter One – The Trial</h2>
 <p>
