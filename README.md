@@ -28,6 +28,7 @@
     The manager and coaches entered the room to a lot of very nervous young players, Alan amongst them but beeming with confidence after his great performance.
     The manager announced there would be 4 players from the 45 players in attendance. He began to call out the names, to his delight, Alan was on the list.
     The selected players were told they would be contacted by the club in the coming days regarding a contract.
+    Alan was offered a 4 year youth contract, he had never been so happy. His future was looking bright.
 </p>
 </body>
 </html>
